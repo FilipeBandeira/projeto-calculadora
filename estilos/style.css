@@ -15,8 +15,8 @@ div.fundo {
 
 div.calculadora {
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.8);
-    top: 50%;
+    background-color: rgba(0, 0, 0, 0.8); /*O 0.8 é exatamente a transparência*/
+    top: 50%; /*Formatação para posicionar ao meio*/
     left: 50%;
     border-radius: 15px;
     padding: 15px;
